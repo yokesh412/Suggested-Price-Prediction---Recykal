@@ -1,4 +1,4 @@
-# Suggested-Price-Predictiopn
+# Suggested-Price-Prediction --Recykal
 
 A suggested price prediction project aims to predict the suggested price for a product or service, based on various factors such as market demand, competition, cost of production, and other relevant factors. The goal of this project is to provide businesses with insights into the optimal price for their products or services, which can help them maximize profits and competitiveness in the market.
 
